@@ -64,7 +64,7 @@ KDF_E_0185.wav Real
 KDF_E_1224.wav Real
 KDF_E_1852.wav Real
 KDF_E_1549.wav Real
-KDF_E_1202.wav Fake
+KDF_E_1202.wav Real
 KDF_E_1165.wav Real
 KDF_E_1342.wav Real
 KDF_E_0310.wav Real
@@ -83,7 +83,7 @@ KDF_E_1968.wav Real
 KDF_E_1369.wav Real
 KDF_E_1433.wav Real
 KDF_E_0346.wav Real
-KDF_E_1962.wav Fake
+KDF_E_1962.wav Real
 KDF_E_1422.wav Real
 KDF_E_0838.wav Real
 KDF_E_0012.wav Real
@@ -142,7 +142,7 @@ KDF_E_0946.wav Real
 KDF_E_1904.wav Real
 KDF_E_1967.wav Real
 KDF_E_1582.wav Real
-KDF_E_0728.wav Fake
+KDF_E_0728.wav Real
 KDF_E_1278.wav Real
 KDF_E_0814.wav Real
 KDF_E_0406.wav Real
@@ -162,7 +162,7 @@ KDF_E_1017.wav Real
 KDF_E_0401.wav Real
 KDF_E_0909.wav Real
 KDF_E_1235.wav Real
-KDF_E_0731.wav Fake
+KDF_E_0731.wav Real
 KDF_E_1668.wav Real
 KDF_E_0431.wav Real
 KDF_E_1274.wav Real
@@ -461,7 +461,7 @@ KDF_E_1356.wav Real
 KDF_E_0987.wav Real
 KDF_E_1941.wav Real
 KDF_E_1719.wav Real
-KDF_E_1434.wav Fake
+KDF_E_1434.wav Real
 KDF_E_0217.wav Real
 KDF_E_0563.wav Real
 KDF_E_0021.wav Real
@@ -1023,7 +1023,7 @@ KDF_E_0150.wav Fake
 KDF_E_0118.wav Fake
 KDF_E_1645.wav Fake
 KDF_E_1110.wav Fake
-KDF_E_0532.wav Fake
+KDF_E_0532.wav Real
 KDF_E_1707.wav Fake
 KDF_E_0574.wav Real
 KDF_E_0323.wav Fake
@@ -1066,7 +1066,7 @@ KDF_E_1655.wav Fake
 KDF_E_0756.wav Fake
 KDF_E_0450.wav Fake
 KDF_E_0674.wav Fake
-KDF_E_1901.wav Fake
+KDF_E_1901.wav Real
 KDF_E_1050.wav Fake
 KDF_E_0741.wav Fake
 KDF_E_0515.wav Fake
@@ -1074,7 +1074,7 @@ KDF_E_1295.wav Fake
 KDF_E_0785.wav Fake
 KDF_E_1371.wav Fake
 KDF_E_1270.wav Fake
-KDF_E_0285.wav Real
+KDF_E_0285.wav Fake
 KDF_E_1052.wav Fake
 KDF_E_1701.wav Fake
 KDF_E_0105.wav Fake
@@ -1099,7 +1099,7 @@ KDF_E_0912.wav Fake
 KDF_E_1597.wav Fake
 KDF_E_0760.wav Real
 KDF_E_1963.wav Fake
-KDF_E_1161.wav Fake
+KDF_E_1161.wav Real
 KDF_E_0053.wav Fake
 KDF_E_1424.wav Fake
 KDF_E_1667.wav Fake
@@ -1146,7 +1146,7 @@ KDF_E_1085.wav Fake
 KDF_E_0283.wav Fake
 KDF_E_1505.wav Fake
 KDF_E_1745.wav Fake
-KDF_E_0503.wav Real
+KDF_E_0503.wav Fake
 KDF_E_1531.wav Fake
 KDF_E_1401.wav Fake
 KDF_E_1196.wav Fake
@@ -1198,7 +1198,7 @@ KDF_E_0750.wav Fake
 KDF_E_1720.wav Fake
 KDF_E_1011.wav Fake
 KDF_E_0122.wav Fake
-KDF_E_0792.wav Real
+KDF_E_0792.wav Fake
 KDF_E_1656.wav Fake
 KDF_E_0287.wav Fake
 KDF_E_0092.wav Fake
@@ -1220,7 +1220,7 @@ KDF_E_0361.wav Real
 KDF_E_1013.wav Fake
 KDF_E_0244.wav Fake
 KDF_E_1903.wav Fake
-KDF_E_1471.wav Real
+KDF_E_1471.wav Fake
 KDF_E_0719.wav Fake
 KDF_E_0464.wav Fake
 KDF_E_1404.wav Fake
@@ -1241,7 +1241,7 @@ KDF_E_0432.wav Fake
 KDF_E_1262.wav Fake
 KDF_E_0290.wav Fake
 KDF_E_0964.wav Real
-KDF_E_0704.wav Fake
+KDF_E_0704.wav Real
 KDF_E_0811.wav Fake
 KDF_E_0596.wav Fake
 KDF_E_1055.wav Fake
@@ -1272,10 +1272,10 @@ KDF_E_0793.wav Fake
 KDF_E_1714.wav Fake
 KDF_E_1535.wav Fake
 KDF_E_1187.wav Real
-KDF_E_0587.wav Fake
+KDF_E_0587.wav Real
 KDF_E_0395.wav Fake
 KDF_E_1457.wav Fake
-KDF_E_0188.wav Real
+KDF_E_0188.wav Fake
 KDF_E_1972.wav Fake
 KDF_E_0449.wav Fake
 KDF_E_1490.wav Fake
@@ -1304,11 +1304,11 @@ KDF_E_0392.wav Fake
 KDF_E_1593.wav Fake
 KDF_E_1178.wav Fake
 KDF_E_1390.wav Real
-KDF_E_1738.wav Real
+KDF_E_1738.wav Fake
 KDF_E_0691.wav Fake
 KDF_E_0727.wav Real
 KDF_E_1128.wav Real
-KDF_E_1153.wav Real
+KDF_E_1153.wav Fake
 KDF_E_0234.wav Real
 KDF_E_0774.wav Fake
 KDF_E_0945.wav Fake
@@ -1362,7 +1362,7 @@ KDF_E_1657.wav Fake
 KDF_E_1132.wav Real
 KDF_E_0664.wav Fake
 KDF_E_0616.wav Real
-KDF_E_0822.wav Real
+KDF_E_0822.wav Fake
 KDF_E_0492.wav Fake
 KDF_E_0208.wav Fake
 KDF_E_0082.wav Fake
@@ -1374,7 +1374,7 @@ KDF_E_0336.wav Fake
 KDF_E_1183.wav Real
 KDF_E_0263.wav Fake
 KDF_E_0897.wav Fake
-KDF_E_0986.wav Real
+KDF_E_0986.wav Fake
 KDF_E_1339.wav Fake
 KDF_E_1230.wav Real
 KDF_E_1395.wav Real
@@ -1543,8 +1543,8 @@ KDF_E_1056.wav Fake
 KDF_E_1686.wav Real
 KDF_E_1265.wav Fake
 KDF_E_1331.wav Real
-KDF_E_1236.wav Fake
-KDF_E_1545.wav Fake
+KDF_E_1236.wav Real
+KDF_E_1545.wav Real
 KDF_E_0935.wav Fake
 KDF_E_1889.wav Fake
 KDF_E_1937.wav Fake
@@ -1644,7 +1644,7 @@ KDF_E_0324.wav Fake
 KDF_E_1882.wav Fake
 KDF_E_0856.wav Fake
 KDF_E_1038.wav Fake
-KDF_E_1325.wav Fake
+KDF_E_1325.wav Real
 KDF_E_1741.wav Fake
 KDF_E_1537.wav Fake
 KDF_E_1336.wav Fake
@@ -1654,11 +1654,11 @@ KDF_E_1134.wav Fake
 KDF_E_0755.wav Fake
 KDF_E_0808.wav Fake
 KDF_E_1685.wav Fake
-KDF_E_0954.wav Fake
+KDF_E_0954.wav Real
 KDF_E_0878.wav Fake
 KDF_E_0278.wav Fake
 KDF_E_1744.wav Fake
-KDF_E_1673.wav Fake
+KDF_E_1673.wav Real
 KDF_E_0186.wav Real
 KDF_E_0527.wav Fake
 KDF_E_1712.wav Fake
@@ -1690,7 +1690,7 @@ KDF_E_0121.wav Fake
 KDF_E_0679.wav Fake
 KDF_E_1598.wav Fake
 KDF_E_1418.wav Fake
-KDF_E_0312.wav Real
+KDF_E_0312.wav Fake
 KDF_E_1399.wav Fake
 KDF_E_1123.wav Fake
 KDF_E_1922.wav Fake
@@ -1787,7 +1787,7 @@ KDF_E_1726.wav Fake
 KDF_E_1945.wav Fake
 KDF_E_1776.wav Real
 KDF_E_1825.wav Real
-KDF_E_0177.wav Fake
+KDF_E_0177.wav Real
 KDF_E_0523.wav Fake
 KDF_E_1464.wav Fake
 KDF_E_1454.wav Fake
@@ -1839,7 +1839,7 @@ KDF_E_0886.wav Fake
 KDF_E_1010.wav Real
 KDF_E_1787.wav Fake
 KDF_E_0681.wav Fake
-KDF_E_0648.wav Fake
+KDF_E_0648.wav Real
 KDF_E_0887.wav Fake
 KDF_E_1640.wav Real
 KDF_E_0884.wav Fake
@@ -1953,7 +1953,7 @@ KDF_E_1781.wav Real
 KDF_E_1706.wav Fake
 KDF_E_1813.wav Fake
 KDF_E_1511.wav Fake
-KDF_E_0742.wav Fake
+KDF_E_0742.wav Real
 KDF_E_1008.wav Real
 KDF_E_0019.wav Real
 KDF_E_1774.wav Real
@@ -1982,7 +1982,7 @@ KDF_E_0424.wav Real
 KDF_E_0810.wav Fake
 KDF_E_0633.wav Fake
 KDF_E_0796.wav Real
-KDF_E_0642.wav Real
+KDF_E_0642.wav Fake
 KDF_E_0721.wav Fake
 KDF_E_0109.wav Fake
 KDF_E_1079.wav Fake
